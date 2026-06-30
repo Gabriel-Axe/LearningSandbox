@@ -1,5 +1,6 @@
 ---
-title: "My RPG Backend with Go"
+layout: post
+title: "How I'm building the most chaotic RPG"
 draft: false
 ---
 
