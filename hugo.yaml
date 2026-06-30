@@ -1,0 +1,4 @@
+baseURL: https://gabriel-axe.github.io/
+locale: en-us
+title: Learning Sandbox
+theme: ["PaperMod"]
