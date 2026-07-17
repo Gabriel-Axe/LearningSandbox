@@ -72,7 +72,6 @@ Given where I am, it would be convenient to do X thing, given Y. Perhaps the mos
 Given the situation I find myself in, it would be convenient to do X.
 
 - "Given that I have worked all week, it would be convenient to just, relax this weekend and just play some Project Zomboid and eat some chocolate."
-- (another example)
 
 # Game Specific Advice
 
