@@ -1,7 +1,7 @@
 ---
 layout: post
-draft: true
-title:  "To Be Decided"
+draft: false
+title:  "I Studied my Video Game Addiction"
 ---
 
 First off, me not neurochemist nor medical student. 
